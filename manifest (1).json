@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Zodi 87.9 FM",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Zodi Radio",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Zodi Radio 87.9 — La mejor música de los 70, 80 y 90 🎵"
+}
